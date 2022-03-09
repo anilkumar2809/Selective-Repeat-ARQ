@@ -1,0 +1,5 @@
+arr=("100" "200" "700" "1000")
+Total time taken to transfer data:  564.528352022171
+Total time taken to transfer data:  304.3288278579712
+Total time taken to transfer data:  88.36455082893372
+Total time taken to transfer data:  63.27071928977966

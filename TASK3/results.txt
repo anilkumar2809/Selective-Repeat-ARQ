@@ -1,0 +1,6 @@
+
+arr=("0.01" "0.03" "0.1")
+
+Total time taken to transfer data:  32.10916185379028
+Total time taken to transfer data:  86.37477612495422
+Total time taken to transfer data:  240.049143075943

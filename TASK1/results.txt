@@ -1,0 +1,10 @@
+TASK 1
+
+arr=("16" "128" "1024")
+Total time taken to transfer data:  173.6560549736023
+Total time taken to transfer data:  124.66009426116943
+Total time taken to transfer data:  111.27998900413513
+
+arr=("512" "1024")
+Total time taken to transfer data:  118.97565913200378
+Total time taken to transfer data:  114.2800350189209
